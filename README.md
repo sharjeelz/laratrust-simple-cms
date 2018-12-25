@@ -1,7 +1,7 @@
 
 # laratrust-simple-cms
 
-This is a simpler version of https://github.com/sharjeelz/laravel-laratrust .
+This is a simpler version of https://github.com/sharjeelz/laravel-laratrust  
 If you want to learn about it step by step, visit http://portfolio.sharjeelz.com/laratrust-cms
 
 
