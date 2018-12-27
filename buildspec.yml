@@ -5,4 +5,4 @@ phases:
       - php --version
   build:
     commands:
-      - .\vendor\bin\phpunit --filter test_user_can_view_a_login_form
+      - ./vendor/bin/phpunit --filter test_user_can_view_a_login_form
