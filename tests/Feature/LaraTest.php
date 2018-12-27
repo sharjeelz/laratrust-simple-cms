@@ -16,6 +16,7 @@ class LaraTest extends TestCase
 
     public function test_user_can_view_a_login_form()
     {
+        $response = $this->get('/');
         $response = $this->get('/login'); //pass url which you going to hit
         $response->assertViewIs('auth.login'); //pass view file
     }
