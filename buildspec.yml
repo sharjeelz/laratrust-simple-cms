@@ -2,7 +2,7 @@ version: 0.1
 phases:
   pre_build:
     commands:
-      - composer update
+      - php --version
   build:
     commands:
-      - php artisan serve
+      - .\vendor\bin\phpunit --filter test_user_can_view_a_login_form
