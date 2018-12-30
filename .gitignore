@@ -11,6 +11,7 @@ npm-debug.log
 blog.rar
 yarn-error.log
 .elasticbeanstalk
+.ebextensions/*
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
