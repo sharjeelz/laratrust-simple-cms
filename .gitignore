@@ -9,13 +9,12 @@ Homestead.yaml
 npm-debug.log
 blog.rar
 yarn-error.log
-.elasticbeanstalk
+
 vendor/*
 lara-v1.zip
 lara1.zip
 
 # Elastic Beanstalk Files
-.elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 .env
