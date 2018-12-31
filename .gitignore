@@ -10,7 +10,6 @@ npm-debug.log
 blog.rar
 yarn-error.log
 .elasticbeanstalk
-.ebextensions/*
 vendor/*
 lara-v1.zip
 lara1.zip
