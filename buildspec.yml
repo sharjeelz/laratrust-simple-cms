@@ -6,3 +6,9 @@ phases:
   # build:
   #   commands:
   #     - phpunit --filter test_user_can_view_a_login_form
+artifacts:
+  files:
+    - '**-*'
+  discard-paths: no
+
+
